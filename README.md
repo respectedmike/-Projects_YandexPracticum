@@ -1,5 +1,6 @@
 # -Projects_YandexPracticum
 # Описание проектов в репозитории
+![Диплом](https://github.com/respectedmike/-Projects_YandexPracticum/blob/main/Diplom.png)
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Аналитик данных".
 
 | Название проекта | Описание |	Навыки и инструменты | Ссылка |
