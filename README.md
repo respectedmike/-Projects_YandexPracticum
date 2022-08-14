@@ -19,8 +19,8 @@
 
 [1]:Music/
 [2]:Bank/
-[3]:flats.ipynb
-[4]:telekom.ipynb
+[3]:flats/
+[4]:telekom/
 [5]:games.ipynb
 [6]:Procrastinate.ipynb
 [7]:shop.ipynb
