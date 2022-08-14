@@ -26,5 +26,5 @@
 [7]:shop/
 [8]:Food/
 [9]:Mobile/
-[10]:gym/
+[10]:Gym/
 [11]:e-commerce/
