@@ -25,6 +25,6 @@
 [6]:Procrastinate/
 [7]:shop/
 [8]:Food/
-[9]:mobile/
+[9]:Mobile/
 [10]:gym/
 [11]:e-commerce/
