@@ -19,12 +19,12 @@
 
 [1]:Music/
 [2]:Bank/
-[3]:flats/
+[3]:Flats/
 [4]:telekom/
 [5]:games/
 [6]:Procrastinate/
 [7]:shop/
-[8]:food/
+[8]:Food/
 [9]:mobile/
 [10]:gym/
 [11]:e-commerce/
