@@ -21,10 +21,10 @@
 [2]:Bank/
 [3]:flats/
 [4]:telekom/
-[5]:games.ipynb
-[6]:Procrastinate.ipynb
-[7]:shop.ipynb
-[8]:food.ipynb
-[9]:mobile.ipynb
-[10]:mobile.ipynb
-[11]:e-commerce.ipynb
+[5]:games/
+[6]:Procrastinate/
+[7]:shop/
+[8]:food/
+[9]:mobile/
+[10]:gym/
+[11]:e-commerce/
