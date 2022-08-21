@@ -1,4 +1,4 @@
-# Маркетинговый анализ развлекательного приложения Procrastinate Pro+
+# [Маркетинговый анализ развлекательного приложения Procrastinate Pro+][1]
 
 ## Данные
 
@@ -31,3 +31,5 @@
 
 ## Используемые библиотеки
 *pandas* *Numpy* *datetime numpy seaborn scipy matplotlib когортный анализ* 
+
+[1]:Procrastinate.ipynb
