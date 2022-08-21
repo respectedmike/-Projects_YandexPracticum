@@ -17,14 +17,14 @@
 | Анализ и подготовка плана действий по удержанию клиентов в сети фитнес-центров | *Исследование направлено* на разработку стратегии по удержанию клиентов сети фитнес-центров | Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Scipy, классификация, кластеризация, машинное обучение | [gym][10] |
 | E-commerce. Выявление профилей потребителей | *Целью исследования* является анализ пользовательского опыта в интернет-магазине товаров для дома и быта «Пока все ещё тут» | Python, Pandas, Numpy, PyMystem3, Matplotlib, Seaborn, Scipy, Tableau, предобработка данных, лемматизация, классификация, проверка статистических гипотез, продуктовые метрики, визуализация данных, построение дашбордов | [e-commerce][11]
 
-[1]:Music/
-[2]:Bank/
-[3]:Flats/
-[4]:telekom/
-[5]:games/
-[6]:Procrastinate/
-[7]:shop/
-[8]:Food/
-[9]:Mobile/
-[10]:Gym/
-[11]:e-commerce/
+[1]:projects/Music/
+[2]:projects/Bank/
+[3]:projects/Flats/
+[4]:projects/telekom/
+[5]:projects/games/
+[6]:projects/Procrastinate/
+[7]:projects/shop/
+[8]:projects/Food/
+[9]:projects/Mobile/
+[10]:projects/Gym/
+[11]:projects/e-commerce/
