@@ -25,4 +25,4 @@
 ## Используемые библиотеки
 *pandas* *PyMystem3* *Лемматизация*
 
-[1]:/bank
+[1]:Bank/banks.ipynb
