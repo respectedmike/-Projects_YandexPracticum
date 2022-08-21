@@ -1,4 +1,4 @@
-# E-commerce — Анализ товарного ассортимента
+# [E-commerce — Анализ товарного ассортимента][1]
 
 ## Данные
 
@@ -20,3 +20,5 @@
 ## Используемые библиотеки
 *pandas* *Numpy* *datetime numpy seaborn scipy matplotlib когортный анализ* 
 *Pandas Numpy PyMystem3 Matplotlib Seaborn Scipy Tableau предобработка данных лемматизация классификацияпроверка статистических гипотез продуктовые метрики визуализация данных построение дашбордов*
+
+[1]:e-commerce.ipynb
