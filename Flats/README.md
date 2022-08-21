@@ -24,4 +24,4 @@
 ## Используемые библиотеки
 *pandas* *Numpy* *Matplotlib* *Seaborn* 
 
-[1]:flats.ipbn
+[1]:flats.ipynb
